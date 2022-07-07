@@ -1,2 +1,2 @@
-# fianance2
+# finance2
 Final Project
