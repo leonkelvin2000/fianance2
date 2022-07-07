@@ -1,3 +1,4 @@
 # fianance2
-Final Project
-Read Me
+Project --Finances 
+Week 1 
+
