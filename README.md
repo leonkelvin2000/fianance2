@@ -1,18 +1,16 @@
 # Final Project
 
-The purpose of this assignment is to analyze the correlation between users' age and occupation vs their credit score. This analysis would help us determine if there is a strong correlation between age and income in relation to user's credit scores.
+The purpose of this assignment is to analyze salary prediction classification data, and classification on salary whether less than 50K or greater than 50k.
 
 ## Problem Statement
-Working as data scientists in a global finance company. Over the years, the company has collected basic bank details and gathered significant credit-related information. The management wants to build an intelligent system to segregate the people into the credit score brackets to reduce the manual effort required.
+TBD
 
 Our goal is to build a machine learning model that can classify the credit score. 
 
-### Initial ideas for questions we want to answer
+### Initial ideas for questions we want to answer in predicting a specific target:
 
-- Is there a strong correlation between age and credit score?
-- Is there a strong correlation between occupation or annual salary and credit score?
-- Is there a connection between being gender and having a better credit score?
-- Do we need to add more data to get a higher accuracy score when using a machine learning model? 
+- Is there a corelation between education and salaries above or below 50K/yr?
+- Are there indicators/categories that can accurately predict whether or not an individual will make above or below 50K/yr?
 
 ### Group communication protocols
 - Throughout this project the group will communicate through our group slack channel, and WhatsApps as needed.
@@ -26,6 +24,7 @@ Our goal is to build a machine learning model that can classify the credit score
 
 ### Getting started
 
-We begin the project by deciding on our topic of finance and searching Kaggle for possible datasets that would provide us with enough columns and rows of data in order to glean insights. 
+We begin the project we searched on Kaggle for possible datasets that would provide us with a robust machine learning dataset to solve for a binary classification problem. 
 
-Credit Score classification has a Usability score of 9.41 with a test.csv file of 15.37 MiB including 27 columns  data that could be of interest for our problem statement including age, occupation, annual income, etc.
+We located the [Salary Prediction Classification](https://www.kaggle.com/datasets/ayessa/salary-prediction-classification) dataset that is 3.84 MiB, with 15 columns including information such as age, education, marital status, occupation, race, sex, and other categories that will provide us with meaningful insights for our marchine learning project and analysis. 
+
