@@ -3,9 +3,7 @@
 The purpose of this assignment is to analyze salary prediction classification data, and classification on salary whether less than 50K or greater than 50k. The dataset was pulled from Kragger, original source is the US Census database.
 
 ## Problem Statement
-TBD
-
-Initial ideas - prediction task to determine whether a person makes over 50K a year.
+TBD - Initial ideas - prediction task to determine whether a person makes over 50K a year.
 
 Our goal is to build a machine learning model that can classify the credit score. 
 
