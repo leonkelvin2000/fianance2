@@ -10,8 +10,8 @@ Our goal is to build a machine learning model that can classify the credit score
 ### Initial ideas for questions we want to answer
 
 - Is there a strong correlation between age and credit score?
-- Is there a strong correlation for a 
-- Is there a connection between being xyz and having a better credit score?
+- Is there a strong correlation between occupation or annual salary and credit score?
+- Is there a connection between being gender and having a better credit score?
 - Do we need to add more data to get a higher accuracy score when using a machine learning model? 
 
 ### Group communication protocols
