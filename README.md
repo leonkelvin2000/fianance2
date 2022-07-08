@@ -1,3 +1,3 @@
 ### Final Project
 
-This is week 1 of the ReadMe describing our final project around the finance topic. 
+This is week 1 of the ReadMe describing our final project around the finance topic. *under development*
