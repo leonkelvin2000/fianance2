@@ -1,3 +1,4 @@
+
 # Final Project
 
 The purpose of this assignment is to analyze salary prediction classification data, and classification on salary whether less than 50K or greater than 50k. The dataset was pulled from Kragger, the original source is from the US Census database.
@@ -34,4 +35,3 @@ We located the [Salary Prediction Classification](https://www.kaggle.com/dataset
 - [Salary Prediction Classification](https://www.kaggle.com/datasets/ayessa/salary-prediction-classification) dataset
 - GitHub
 - Jupyter Notebook
-
