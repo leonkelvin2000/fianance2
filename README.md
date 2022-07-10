@@ -1,7 +1,7 @@
 
 # Final Project
 
-The purpose of this assignment is to analyze salary prediction classification data, and classification on salary whether less than 50K or greater than 50k. The dataset was pulled from Kragger, the original source is from the US Census database
+The Goal of this assignment is to analyze salary prediction classification data, and classification on salary whether less than 50K or greater than 50k. The dataset was pulled from Kragger, the original source is from the US Census database
 
 ## Problem Statement
 TBD - Initial ideas - prediction task to determine whether a person makes over 50K a year.
