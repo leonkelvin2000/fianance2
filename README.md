@@ -35,3 +35,10 @@ We located the [Salary Prediction Classification](https://www.kaggle.com/dataset
 - [Salary Prediction Classification](https://www.kaggle.com/datasets/ayessa/salary-prediction-classification) dataset
 - GitHub
 - Jupyter Notebook
+
+To Do:
+
+- Description of preliminary data preprocessing 
+- Description of preliminary feature engineering and preliminary feature selection, including their decision-making process
+- Description of how data was split into training and testing sets
+- Explanation of model choice, including limitations and benefits
