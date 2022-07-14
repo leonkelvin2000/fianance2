@@ -44,5 +44,5 @@ To Do:
 - Explanation of model choice, including limitations and benefits
 
 
-Google sslide link
+Google slide link
 https://docs.google.com/presentation/d/1e75PlXyeV8oXER-KKV7Z1XRlbs467yrbDvGK3vjCtoo/edit?usp=sharing
