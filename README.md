@@ -53,7 +53,7 @@ We created an interjoin between these tables that incorporated the target and th
 
 - *Explanation of model choice, including limitations and benefits*
 
-We chose this model for its ability to collaborate seamlessly, track changes, and the features to help with our particular data set for age and salary data targets. Limitations are that some of the data was slow rendering and we needed shut it down and revboot a couple times. 
+We chose this model for its ability to collaborate seamlessly, track changes, and the features to help with our particular data set for age and salary data targets. Limitations are that some of the data was slow rendering and we needed shut it down and reboot the program a couple times. 
 
 <img width="1438" alt="Salary" src="https://user-images.githubusercontent.com/93094173/179422952-65aac539-178a-4950-b698-74c03e70c28c.png">
 
