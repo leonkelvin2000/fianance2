@@ -49,13 +49,13 @@ As a group, we spoke about which features we wanted to keep and those that weren
 
 - Description of how data was split into training and testing sets
 
-We created an interjoin between these tables that incorporated the target and the chosen features. 
-
+We created an interjoin between these tables that incorporated the target and the chosen features. We created a connection between sqlite3 and Salary.db, then addded features_df and target_df to our Salary.db. After this, we commited the connection and then executed sql databse in SQLiteStudio. The tables were merged as an OUTERJOIN to complete the full table as this adds the salary column. 
 
 - Explanation of model choice, including limitations and benefits
 
-We chose this model 
+We chose this model for its ability to collaborate seamlessly, track changes, and the features to help with our particular data set around age and salary data. Limitations are that some of the data was slow rendering and we needed shut it down and revboot a couple times. 
 
-[Google slide presentation](https://docs.google.com/presentation/d/1e75PlXyeV8oXER-KKV7Z1XRlbs467yrbDvGK3vjCtoo/edit?usp=sharing)
+
+<img width="1438" alt="Salary" src="https://user-images.githubusercontent.com/93094173/179422952-65aac539-178a-4950-b698-74c03e70c28c.png">
 
 
