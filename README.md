@@ -36,12 +36,23 @@ We located the [Salary Prediction Classification](https://www.kaggle.com/dataset
 - GitHub
 - Jupyter Notebook
 
-To Do:
+## Segment 2: 
 
 - Description of preliminary data preprocessing 
-- Description of preliminary feature engineering and preliminary feature selection, including their decision-making process
-- Description of how data was split into training and testing sets
-- Explanation of model choice, including limitations and benefits
+In the SQL database, we imported SQLite. We updated the features_df column titles to be more user friendly. SQLite was optimal for our purposes as it connects seamlessly with Jupyter Noteook. We also liked that it has version controls, financial analysis tools, and other features that will make it helpful for our group's online collaboration. Nulls were eliminated when cleaning the data. 
 
+- Description of preliminary feature engineering and preliminary feature selection, including their decision-making process.
+
+As a group, we spoke about which features we wanted to keep and those that weren't required for our analysis. We decided that the primary key and target columns age and salary. The features/columns that we decided to keep included work_class, education, martital_status, occupation, relationship, race, sex, hours_per_week, and native_country as we believe that we will be able to draw some interesting data and findings with categories based on the target of age and salary. However, we decided to drop some columns that were either ambiguous, or not helpful, for example, 'Education_ID_number" was a column eliminated for our study. 
+
+- Description of how data was split into training and testing sets
+
+We created an interjoin between these tables that incorporated the target and the chosen features. 
+
+
+- Explanation of model choice, including limitations and benefits
+We chose this model 
 
 [Google slide presentation](https://docs.google.com/presentation/d/1e75PlXyeV8oXER-KKV7Z1XRlbs467yrbDvGK3vjCtoo/edit?usp=sharing)
+
+
