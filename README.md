@@ -1,5 +1,6 @@
-
 # Final Project
+
+[Google slide presentation](https://docs.google.com/presentation/d/1e75PlXyeV8oXER-KKV7Z1XRlbs467yrbDvGK3vjCtoo/edit?usp=sharing)
 
 The purpose of this assignment is to analyze salary prediction classification data, and classification on salary whether less than 50K or greater than 50k. The dataset was pulled from Kragger, the original source is from the US Census database.
 
@@ -38,7 +39,8 @@ We located the [Salary Prediction Classification](https://www.kaggle.com/dataset
 
 ## Segment 2: 
 
-- Description of preliminary data preprocessing 
+- Description of preliminary data preprocessing
+
 In the SQL database, we imported SQLite. We updated the features_df column titles to be more user friendly. SQLite was optimal for our purposes as it connects seamlessly with Jupyter Noteook. We also liked that it has version controls, financial analysis tools, and other features that will make it helpful for our group's online collaboration. Nulls were eliminated when cleaning the data. 
 
 - Description of preliminary feature engineering and preliminary feature selection, including their decision-making process.
@@ -51,6 +53,7 @@ We created an interjoin between these tables that incorporated the target and th
 
 
 - Explanation of model choice, including limitations and benefits
+
 We chose this model 
 
 [Google slide presentation](https://docs.google.com/presentation/d/1e75PlXyeV8oXER-KKV7Z1XRlbs467yrbDvGK3vjCtoo/edit?usp=sharing)
