@@ -2,7 +2,7 @@
 
 [Google slide presentation] https://docs.google.com/presentation/d/1e75PlXyeV8oXER-KKV7Z1XRlbs467yrbDvGK3vjCtoo/edit?usp=sharing
 
-The purpose of this assignment is to analyze salary prediction classification data, and classification on salary whether less than 50K or greater than 50k. The dataset was pulled from kaggle, the original source is from the US Census database.
+The purpose of this assignment is to analyze salary prediction classification data, and classification on salary whether less than 50K or greater than 50k. The dataset was pulled from Kaggle, the original source is from the US Census database.
 
 ## Problem Statement
 TBD - Initial ideas - prediction task to determine whether a person makes over 50K a year.
