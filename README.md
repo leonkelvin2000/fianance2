@@ -1,8 +1,8 @@
 # Final Project
 
-[Google slide presentation](https://docs.google.com/presentation/d/1e75PlXyeV8oXER-KKV7Z1XRlbs467yrbDvGK3vjCtoo/edit?usp=sharing)
+[Google slide presentation] https://docs.google.com/presentation/d/1e75PlXyeV8oXER-KKV7Z1XRlbs467yrbDvGK3vjCtoo/edit?usp=sharing
 
-The purpose of this assignment is to analyze salary prediction classification data, and classification on salary whether less than 50K or greater than 50k. The dataset was pulled from Kragger, the original source is from the US Census database.
+The purpose of this assignment is to analyze salary prediction classification data, and classification on salary whether less than 50K or greater than 50k. The dataset was pulled from kaggle, the original source is from the US Census database.
 
 ## Problem Statement
 TBD - Initial ideas - prediction task to determine whether a person makes over 50K a year.
@@ -55,6 +55,4 @@ We created an interjoin between these tables that incorporated the target and th
 
 We chose this model for its ability to collaborate seamlessly, track changes, and the features to help with our particular data set for age and salary data targets. Limitations are that some of the data was slow rendering and we needed shut it down and reboot the program a couple times. 
 
-<img width="1438" alt="Salary" src="https://user-images.githubusercontent.com/93094173/179422952-65aac539-178a-4950-b698-74c03e70c28c.png">
-
-
+https://docs.google.com/presentation/d/1e75PlXyeV8oXER-KKV7Z1XRlbs467yrbDvGK3vjCtoo/edit?usp=sharing
