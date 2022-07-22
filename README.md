@@ -96,21 +96,21 @@ We located the [Salary Prediction Classification](https://www.kaggle.com/dataset
 
 ## Segment 2: 
 
-- *Description of preliminary data preprocessing*
+### Description of preliminary data preprocessing*
 
 In the SQL database, we imported SQLite. We updated the features_df column titles to be more user friendly. SQLite was optimal for our purposes as it connects seamlessly with Jupyter Noteook. We also liked that it has version controls, financial analysis tools, and other features that will make it helpful for our group's online collaboration. Nulls were eliminated when cleaning the data. 
 
-- *Description of preliminary feature engineering and preliminary feature selection, including their decision-making process*
+### Description of preliminary feature engineering and preliminary feature selection, including their decision-making process*
 
 As a group, we spoke about which features we wanted to keep and those that weren't required for our analysis. We decided that the primary key and target columns age and salary. The features/columns that we decided to keep included work_class, education, martital_status, occupation, relationship, race, sex, hours_per_week, and native_country as we believe that we will be able to draw some interesting data and findings with categories based on the target of age and salary. However, we decided to drop some columns that were either ambiguous, or not helpful, for example, 'Education_ID_number" was a column eliminated for our study. 
 
-- *Description of how data was split into training and testing sets*
+### Description of how data was split into training and testing sets*
 
 We created an interjoin between these tables that incorporated the target and the chosen features. We created a connection between sqlite3 and Salary.db, then addded features_df and target_df to our Salary.db. After this, we commited the connection and then executed sql databse in SQLiteStudio. The tables were merged as an OUTERJOIN to complete the full table as this adds the salary column. 
 
-- *Explanation of model choice, including limitations and benefits*
+### xplanation of model choice, including limitations and benefits*
 
-We chose this model for its ability to collaborate seamlessly, track changes, and the features to help with our particular data set for age and salary data targets. Limitations are that some of the data was slow rendering and we needed shut it down and reboot the program a couple times. 
+We chose the logistical regression model and SQLite for its ability to collaborate seamlessly, track changes, and the features to help with our particular data set for age and salary data targets. Limitations are that some of the data was slow rendering and we needed shut it down and reboot the program a couple times. 
 
 ## Segment 3:
 
