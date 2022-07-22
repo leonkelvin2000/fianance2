@@ -118,7 +118,7 @@ We chose the logistical regression model and SQLite for its ability to collabora
 
 We conducted 2 different logistical regression: **SMOTE** and **Random Oversampling**. 
 
-Data was gathered both ways were both logistical regression.
+Data gathered both ways were both logistical regression.
 
 ### Structured outline of the project
 
