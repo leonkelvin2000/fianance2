@@ -122,7 +122,7 @@ Data gathered both ways were both logistical regression.
 
 ### Structured outline of the project
 
-We used **Tensorflow** for Random Forest and unsupervised learning.
+We used **TensorFlow** for Random Forest and unsupervised learning.
 
 In this segment we split the data into *testing* and *training*. The X represents the features column, and Y is the target colum. We decided to select salary as the target and dropped the use of age for target. 
 
@@ -130,7 +130,7 @@ When we ran the model our value cour]nts were 24,720 are more or equal to 50k sa
 
 <img width="485" alt="Segment3modelsalary" src="https://user-images.githubusercontent.com/93094173/180352423-fd29dfe8-bb6e-4375-9790-341898c5dbe8.png">
 
-We used SMOTE Oversampling to oversample which was build off of the test and train split. This method was optimal as a technique to allow us to generate synthetic samples from the minority class and obtain a synthetically class-balanced training set which could be used to train the classifier for our data. This helped us in training the logistical regression model.
+We used **SMOTE Oversampling** to oversample which was build off of the test and train split. This method was optimal as a technique to allow us to generate synthetic samples from the minority class and obtain a synthetically class-balanced training set which could be used to train the classifier for our data. This helped us in training the logistical regression model.
 
 We ran the model using SMOTE which provided us with a 77% accuracy score, which wasn't optimal accuracy.
 
