@@ -114,10 +114,13 @@ We chose this model for its ability to collaborate seamlessly, track changes, an
 
 ## Segment 3:
 
-**Summary**
-We conducted 2 different logistical regression: **SMOTE** and **Random Oversampling**. We gaythered data 2 different ways that were both logitical regression.
+### Summary
 
-- Structured outline of the project
+We conducted 2 different logistical regression: **SMOTE** and **Random Oversampling**. 
+
+Data was gathered different ways that were both logitical regression.
+
+### Structured outline of the project
 
 We used **Tensorflow** for Random Forest and unsupervised learning.
 
@@ -127,14 +130,17 @@ When we ran the model our value courts were 24,720 are more or equal to 50k sala
 
 <img width="485" alt="Segment3modelsalary" src="https://user-images.githubusercontent.com/93094173/180352423-fd29dfe8-bb6e-4375-9790-341898c5dbe8.png">
 
-We used SMOTE Oversampling to oversample which was build off of the test and train split. This method was optimal as a technique to allow us to generate synthetic samples from the minority class and obtain a synthetically class-balanced training set which could be used to train the classifier for our data.
+We used SMOTE Oversampling to oversample which was build off of the test and train split. This method was optimal as a technique to allow us to generate synthetic samples from the minority class and obtain a synthetically class-balanced training set which could be used to train the classifier for our data. This helped us in training the logistical regression model.
 
+We ran the model using SMOTE which provided us with a 77% accuracy score, which wasn't optimal accuracy.
 
+Following this, we ran a 2nd model which was the **Random Oversampling** package which reran logistical regression. The random sample data provided us with a much higher accuracy score of 81.4%. Though not perfect, it is significantly higher than the previous SMOTE Oversampling model that was run with the dataset.
 
+Finally, we leveraged the **Confusion Matrix** in order to validate how accurate we were utilizing the same testing and predicting. Further, this command allowed us to understand the performance of our models or any potential errors in the data that was generated. This contingency table showed us the two dimensions of actual and predicted to perform a comparison between these classifications and validate our findings.
 
+ <img width="705" alt="ConfusionMatrix" src="https://user-images.githubusercontent.com/93094173/180353630-c61c7e88-d083-4b94-a796-411e63afc1cb.png">
 
-
-
-
+### Slide presentation
 
 - [Google slide presentation](https://docs.google.com/presentation/d/1e75PlXyeV8oXER-KKV7Z1XRlbs467yrbDvGK3vjCtoo/edit?usp=sharing)
+
