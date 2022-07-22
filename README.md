@@ -114,8 +114,27 @@ We chose this model for its ability to collaborate seamlessly, track changes, an
 
 ## Segment 3:
 
-- Description of the communication protocols has been removed
+**Summary**
+We conducted 2 different logistical regression: **SMOTE** and **Random Oversampling**. We gaythered data 2 different ways that were both logitical regression.
 
-- Structured outline of the project (this may include images, but should be easy to follow and digest)
+- Structured outline of the project
+
+We used **Tensorflow** for Random Forest and unsupervised learning.
+
+In this segment we split the data into *testing* and *training*. The X represents the features column, and Y is the target colum. We decided to select salary as the target and dropped the use of age for target. 
+
+When we ran the model our value courts were 24,720 are more or equal to 50k salary per year, and 7,851 are less than 50K per year. 
+
+<img width="485" alt="Segment3modelsalary" src="https://user-images.githubusercontent.com/93094173/180352423-fd29dfe8-bb6e-4375-9790-341898c5dbe8.png">
+
+We used SMOTE Oversampling to oversample which was build off of the test and train split. This method was optimal as a technique to allow us to generate synthetic samples from the minority class and obtain a synthetically class-balanced training set which could be used to train the classifier for our data.
+
+
+
+
+
+
+
+
 
 - [Google slide presentation](https://docs.google.com/presentation/d/1e75PlXyeV8oXER-KKV7Z1XRlbs467yrbDvGK3vjCtoo/edit?usp=sharing)
