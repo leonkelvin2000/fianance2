@@ -118,7 +118,7 @@ We chose this model for its ability to collaborate seamlessly, track changes, an
 
 We conducted 2 different logistical regression: **SMOTE** and **Random Oversampling**. 
 
-Data was gathered different ways that were both logitical regression.
+Data was gathered both ways were both logistical regression.
 
 ### Structured outline of the project
 
@@ -126,7 +126,7 @@ We used **Tensorflow** for Random Forest and unsupervised learning.
 
 In this segment we split the data into *testing* and *training*. The X represents the features column, and Y is the target colum. We decided to select salary as the target and dropped the use of age for target. 
 
-When we ran the model our value courts were 24,720 are more or equal to 50k salary per year, and 7,851 are less than 50K per year. 
+When we ran the model our value cour]nts were 24,720 are more or equal to 50k salary per year, and 7,851 are less than 50K per year. 
 
 <img width="485" alt="Segment3modelsalary" src="https://user-images.githubusercontent.com/93094173/180352423-fd29dfe8-bb6e-4375-9790-341898c5dbe8.png">
 
