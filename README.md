@@ -134,7 +134,7 @@ We used **SMOTE Oversampling** to oversample which was build off of the test and
 
 We ran the model using SMOTE which provided us with a 77% accuracy score, which wasn't optimal accuracy.
 
-Following this, we ran a 2nd model which was the **Random Oversampling** package which reran logistical regression. The random sample data provided us with a much higher accuracy score of 81.4%. Though not perfect, it is significantly higher than the previous SMOTE Oversampling model that was run with the dataset.
+Following this, we ran a 2nd model which was the **Random Oversampling** package which reran logistical regression. The random sample data provided us with a much higher accuracy score of 81.4%. Though not perfect, it is significantly higher than the previous SMOTE Oversampling model that was previusly run with the dataset.
 
 Finally, we leveraged the **Confusion Matrix** in order to validate how accurate we were in the actual and predicted values of the model. Further, this command allowed us to understand the performance of our models or any potential errors in the data that was generated. This contingency table showed us the two dimensions of actual and predicted to perform a comparison between these classifications and validate our findings.
 
