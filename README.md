@@ -140,6 +140,6 @@ Finally, we leveraged the **Confusion Matrix** in order to validate how accurate
 
  <img width="705" alt="ConfusionMatrix" src="https://user-images.githubusercontent.com/93094173/180353630-c61c7e88-d083-4b94-a796-411e63afc1cb.png">
 
-### Slide presentation
+### Slide presentation 
 
 - [Google slide presentation](https://docs.google.com/presentation/d/1e75PlXyeV8oXER-KKV7Z1XRlbs467yrbDvGK3vjCtoo/edit?usp=sharing)
