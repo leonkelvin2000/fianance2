@@ -23,7 +23,7 @@ Our goal is to build a machine learning model that can classify the credit score
 
 ### Team Members
 - Nelson
-- Kelvin
+- Kelvin L 
 - Semika
 - Andrea
 
