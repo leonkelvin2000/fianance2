@@ -4,8 +4,8 @@ The purpose of this assignment is to analyze salary prediction classification da
 
 ### Project links
 - [Google slide presentation](https://docs.google.com/presentation/d/1e75PlXyeV8oXER-KKV7Z1XRlbs467yrbDvGK3vjCtoo/edit?usp=sharing)
-- [Tableau Dashboard](https://public.tableau.com/app/profile/semika.n.burnette/viz/Finalproject_16584483883510/SalaryvsEducation)
-
+- [Tableau Dashboard]
+- https://public.tableau.com/app/profile/semika.n.burnette/viz/Finalproject_16584483883510/Story1
 ## Problem Statement
 Our goal is to build a machine learning model that can determine whether or not a person makes over 50K a year based on the variable of age. 
 
