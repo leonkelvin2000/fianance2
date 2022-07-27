@@ -1,15 +1,13 @@
 # Final Project
-
 The purpose of this assignment is to analyze salary prediction classification data, and classification on salary whether less than 50K or greater than 50k. The dataset was pulled from Kaggle, the original source is from the US Census database
 
 ### Project links
 - [Google slide presentation](https://docs.google.com/presentation/d/1e75PlXyeV8oXER-KKV7Z1XRlbs467yrbDvGK3vjCtoo/edit?usp=sharing)
 - [Tableau Dashboard](https://public.tableau.com/app/profile/semika.n.burnette/viz/Finalproject_16584483883510/Story1)
 ## Problem Statement
-Our goal is to build a machine learning model that can determine whether or not a person makes over 50K a year based on the variable of age. 
+Our goal is to build a machine learning model that can determine whether educational attainment affects salaries, and whether the level of education determines if an individual earns above or equal to 50k or below 50k. 
 
 ### Initial ideas for questions we want to answer in predicting a specific target:
-
 - Is there a corelation between age, education and salaries above or below 50K/yr?
 - Prediction of salary based on other demographic indicators. 
 - Are there indicators/categories that can accurately predict whether or not an individual will make above 50K/yr?
@@ -25,13 +23,11 @@ Our goal is to build a machine learning model that can determine whether or not 
 - Andrea
 
 ### Getting started
-
 We begin the project we searched on Kaggle for possible datasets that would provide us with a robust machine learning dataset to solve for a binary classification problem. 
 
 We located the [Salary Prediction Classification](https://www.kaggle.com/datasets/ayessa/salary-prediction-classification) dataset that is 3.84 MiB, with 15 columns including information such as age, education, marital status, occupation, race, sex, and other categories that will provide us with meaningful insights for our marchine learning project and analysis. 
 
 ### Tools and Resources Used
-
 - [Salary Prediction Classification](https://www.kaggle.com/datasets/ayessa/salary-prediction-classification) dataset
 - GitHub
 - Jupyter Notebook
@@ -81,3 +77,8 @@ Following this, we ran a 2nd model which was the **Random Oversampling** package
 Finally, we leveraged the **Confusion Matrix** in order to validate how accurate we were in the actual and predicted values of the model. Further, this command allowed us to understand the performance of our models or any potential errors in the data that was generated. This contingency table showed us the two dimensions of actual and predicted to perform a comparison between these classifications and validate our findings.
 
  <img width="705" alt="ConfusionMatrix" src="https://user-images.githubusercontent.com/93094173/180353630-c61c7e88-d083-4b94-a796-411e63afc1cb.png">
+ 
+ ### Tableau Dashboard on Salary Predictions
+ 
+Interactive dashboard
+<img width="1381" alt="Screen Shot 2022-07-26 at 5 02 41 PM" src="https://user-images.githubusercontent.com/93094173/181132841-d29590c3-3efa-4300-a627-498894051bab.png">
